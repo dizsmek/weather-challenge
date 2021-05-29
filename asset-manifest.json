@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather-challenge/static/css/main.cd811508.chunk.css",
+    "main.js": "/weather-challenge/static/js/main.8f5dbc5d.chunk.js",
+    "main.js.map": "/weather-challenge/static/js/main.8f5dbc5d.chunk.js.map",
+    "runtime-main.js": "/weather-challenge/static/js/runtime-main.2044a01e.js",
+    "runtime-main.js.map": "/weather-challenge/static/js/runtime-main.2044a01e.js.map",
+    "static/css/2.3089e125.chunk.css": "/weather-challenge/static/css/2.3089e125.chunk.css",
+    "static/js/2.7bc6dd86.chunk.js": "/weather-challenge/static/js/2.7bc6dd86.chunk.js",
+    "static/js/2.7bc6dd86.chunk.js.map": "/weather-challenge/static/js/2.7bc6dd86.chunk.js.map",
+    "index.html": "/weather-challenge/index.html",
+    "static/css/2.3089e125.chunk.css.map": "/weather-challenge/static/css/2.3089e125.chunk.css.map",
+    "static/css/main.cd811508.chunk.css.map": "/weather-challenge/static/css/main.cd811508.chunk.css.map",
+    "static/js/2.7bc6dd86.chunk.js.LICENSE.txt": "/weather-challenge/static/js/2.7bc6dd86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2044a01e.js",
+    "static/css/2.3089e125.chunk.css",
+    "static/js/2.7bc6dd86.chunk.js",
+    "static/css/main.cd811508.chunk.css",
+    "static/js/main.8f5dbc5d.chunk.js"
+  ]
+}
