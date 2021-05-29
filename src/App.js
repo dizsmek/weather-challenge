@@ -4,6 +4,8 @@ import SelectionPanel from './SelectionPanel';
 import ReloadButton from './ReloadButton';
 import { cities } from './cities';
 
+import './index.css';
+
 const App = () => {
   const [weatherData, setWeatherData] = useState([]);
 
@@ -12,9 +14,9 @@ const App = () => {
 
   return (
     <div className="App">
-      <ReloadButton updateWeatherData={(data) => { setWeatherData(data) }} />
       <SelectionPanel citiesToShow={citiesToShow} updateCitiesToShow={(cities) => { setCitiesToShow(cities) }} />
       <WeatherTable citiesToShow={citiesToShow} weatherData={weatherData} />
+      <ReloadButton updateWeatherData={(data) => { setWeatherData(data) }} />
     </div>
   );
 };

@@ -42,7 +42,7 @@ const ReloadButton = ({ updateWeatherData }) => {
   }, []);
 
   return (
-    <Button onClick={fetchWeatherData}>Refresh</Button>
+    <Button type='primary' onClick={fetchWeatherData}>Refresh</Button>
   );
 };
 
